@@ -1,2 +1,2 @@
-# Python--Turtle-Graphics
+# Python Turtle-Graphics
 Turtle graphic beginners and intermediate programs
